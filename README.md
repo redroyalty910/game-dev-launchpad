@@ -2,7 +2,7 @@
 
 Submitted by: **Timothy Mills!**
 
-This web app: **this web app provides ten highly useful resources to game developers of all skillsets! Using react, I've created a template to organize code as seen in App.jsx with a format that takes information within a card, and shortens the necessary code visually**
+This web app: **this web app provides ten highly useful resources to game developers of all skillsets! Using react, I've created a template to organize code as seen in App.jsx with a format that takes information within a card, and shortens the necessary code visually!**
 
 Time spent: **2.5** hours spent in total
 
@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='(https://www.youtube.com/watch?v=dnlGN1E0UTY)' title='Tims Video Walkthrough!' width='' alt='Video Walkthrough' />
+[tims video walkthrough](https://www.youtube.com/watch?v=dn1GN1EOUTY)
 
 ## Notes
 
