@@ -24,21 +24,23 @@ The following **optional** features are implemented:
   - [x] All cards have buttons or links in addition to text
 - [x] The site is responsive for both desktop and mobile formats
   - [x] Web app is shown in a mobile format
-  - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. 
+  - [x] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop *and* a mobile format. Detailed instructions can be found below this stretch feature on the project page. ((I KINDA do this))
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] List anything else that you added to improve the site's functionality!
+* [x] I made the frontend all pretty with my taste for pastel colors (using keyframes)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://youtu.be/3zZYryMjR_M' title='Video Walkthrough!' width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/3zZYryMjR_M' title='Tim's Video Walkthrough!' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+**Describe any challenges encountered while building the app.**
+
 I can't say that I faced many challenges with this project. It didn't take me too long, and it was very heavily based around its own requirements. The react implementation so far has not been too complicated either (only thirteen lines of code), and I was able to keep up with this project even as somebody who missed the project's respective lecture. The real challenge for me was getting it in on time LOL!
 
 ## License
