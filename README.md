@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[tims video walkthrough](https://www.youtube.com/watch?v=dn1GN1EOUTY)
+[tims video walkthrough](https://www.youtube.com/watch?v=dnlGN1E0UTY)
 
 ## Notes
 
